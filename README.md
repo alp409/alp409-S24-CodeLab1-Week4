@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Homework game with a high-score board
 
-DO NOT LEAVE IT LIKE THIS!!!
+Highscore scoreboard? High score score board? Highscoreboard? 
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Using class game from week 2.
